@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SamtroCF
+- 👀 I’m interested in Programing Computers and stuff
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on olive-editor
+- 📫 How to reach me email: samuel.troscak@gmail.com
